@@ -11,8 +11,12 @@ hypothetic music platform the most relevant songs they *might like* and they *mi
 I'm a computer science Master's Degree student and this is one of my university project. 
 See my other projects here on [GitHub](https://github.com/d-elicio)!
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://d-elicio.github.io)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenico-elicio/)
+
+
+## Google Colab
+See this project also on [Google Colab](https://colab.research.google.com/drive/18WDle4Y_Ow_MhPnz2GD2qlWlkjf9vVj5?usp=sharing) where the *interactive graph* is available.
 
 
 # 💻 The project
@@ -98,9 +102,6 @@ At the end of our project, an **interactive graph** with all the *Precision@k* a
 
 ![all_graph](https://user-images.githubusercontent.com/96207365/226410766-a7d2fa51-499c-4436-9d52-4f99bc61c814.png)
 
-
-## Google Colab
-See this project also on [Google Colab](https://colab.research.google.com/drive/18WDle4Y_Ow_MhPnz2GD2qlWlkjf9vVj5?usp=sharing) where the *interactive graph* is available.
 
 ## Support
 For any support, error corrections, etc. please email me at domenico.elicio13@gmail.com
